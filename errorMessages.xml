@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+ | Version 10.2
+ | Copyright 2012 Esri
+ |
+ | Licensed under the Apache License, Version 2.0 (the "License");
+ | you may not use this file except in compliance with the License.
+ | You may obtain a copy of the License at
+ |
+ |    http://www.apache.org/licenses/LICENSE-2.0
+ |
+ | Unless required by applicable law or agreed to in writing, software
+ | distributed under the License is distributed on an "AS IS" BASIS,
+ | WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ | See the License for the specific language governing permissions and
+ | limitations under the License.
+-->
+<Messages>
+    <addressToLocate>Entrez l'adresse à localiser.</addressToLocate>
+    <unableToLocate>Impossible de localiser l'adresse.</unableToLocate>
+    <noDataAvlbl>L'adresse que vous recherchez est hors de portée.</noDataAvlbl>
+    <blankAddress>Entrez l'adresse à localiser.</blankAddress>
+    <noPollingPlaces>Il n'y a pas d'informations sur ce lieu de vote.</noPollingPlaces>
+    <nonDesignatedPollingPlace>Ce lieu de vote n'est pas celui attribué à votre bureau.</nonDesignatedPollingPlace>
+    <directionsMessage>Pas de point de départ disponible.</directionsMessage>
+    <noAttachments>Aucune pièce jointe disponible.</noAttachments>
+    <designatedPollingPlaces>Il n'y a pas de lieu de vote attribué à ce bureau.</designatedPollingPlaces>
+    <noSearchResults>Pas de résultat.</noSearchResults>
+    <enterComment>Saisissez votre commentaire.</enterComment>
+    <commentsLength>Les commentaires ne doivent pas dépasser les 250 caractères.</commentsLength>
+    <noComments>Pas de commentaires.</noComments>
+    <tinyURLEngine>TinyURL API engine ne fonctionne pas, Veuillez rééssayer plus tard.</tinyURLEngine>
+    <geoLocation>Vous êtes actuellement en dehors de la zone gérée.</geoLocation>
+    <geolocationTimeout>Votre navigateur n'est pas capable de vous localiser actuellement.</geolocationTimeout>
+    <geolocationPositionUnavailable>Position non disponible.</geolocationPositionUnavailable>
+    <geolocationPermissionDenied>Permission refusée.</geolocationPermissionDenied>
+    <geolocationUnKnownError>Erreur inconnue.</geolocationUnKnownError>
+</Messages>
